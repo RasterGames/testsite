@@ -1,0 +1,13 @@
+# General Settings
+encoding: utf-8
+title: Test Site
+description: "Test Site"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
+
