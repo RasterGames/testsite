@@ -1,0 +1,4 @@
+[submodule "browserquest"]
+	path = browserquest
+	url = https://github.com/RasterGames/bqclient2.git
+	branch = gh-pages
